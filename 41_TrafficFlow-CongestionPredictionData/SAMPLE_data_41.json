@@ -1,0 +1,37 @@
+[
+    {
+        "id": "ace97c1e",
+        "sector": "IoT y Smart Cities",
+        "critical_flag": "Predicci\u00f3n de congesti\u00f3n por eventos/clima.",
+        "timestamp": "2026-03-22T00:44:52.160715",
+        "value": 18.71
+    },
+    {
+        "id": "462e3f39",
+        "sector": "IoT y Smart Cities",
+        "critical_flag": "Predicci\u00f3n de congesti\u00f3n por eventos/clima.",
+        "timestamp": "2026-03-22T00:44:52.160715",
+        "value": 14.62
+    },
+    {
+        "id": "294b827f",
+        "sector": "IoT y Smart Cities",
+        "critical_flag": "Predicci\u00f3n de congesti\u00f3n por eventos/clima.",
+        "timestamp": "2026-03-22T00:44:52.160715",
+        "value": 49.2
+    },
+    {
+        "id": "0533039e",
+        "sector": "IoT y Smart Cities",
+        "critical_flag": "Predicci\u00f3n de congesti\u00f3n por eventos/clima.",
+        "timestamp": "2026-03-22T00:44:52.160715",
+        "value": 83.08
+    },
+    {
+        "id": "0ce94415",
+        "sector": "IoT y Smart Cities",
+        "critical_flag": "Predicci\u00f3n de congesti\u00f3n por eventos/clima.",
+        "timestamp": "2026-03-22T00:44:52.160715",
+        "value": 16.52
+    }
+]

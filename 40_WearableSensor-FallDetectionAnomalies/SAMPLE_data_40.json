@@ -1,0 +1,37 @@
+[
+    {
+        "id": "d5e8e44b",
+        "sector": "HealthTech",
+        "critical_flag": "Falsos positivos en detecci\u00f3n de ca\u00eddas.",
+        "timestamp": "2026-03-22T00:44:50.828029",
+        "value": 87.84
+    },
+    {
+        "id": "82d68805",
+        "sector": "HealthTech",
+        "critical_flag": "Falsos positivos en detecci\u00f3n de ca\u00eddas.",
+        "timestamp": "2026-03-22T00:44:50.828029",
+        "value": 57.73
+    },
+    {
+        "id": "4fc3d5cd",
+        "sector": "HealthTech",
+        "critical_flag": "Falsos positivos en detecci\u00f3n de ca\u00eddas.",
+        "timestamp": "2026-03-22T00:44:50.828029",
+        "value": 23.97
+    },
+    {
+        "id": "5d8091ee",
+        "sector": "HealthTech",
+        "critical_flag": "Falsos positivos en detecci\u00f3n de ca\u00eddas.",
+        "timestamp": "2026-03-22T00:44:50.828029",
+        "value": 82.12
+    },
+    {
+        "id": "46e9b8f0",
+        "sector": "HealthTech",
+        "critical_flag": "Falsos positivos en detecci\u00f3n de ca\u00eddas.",
+        "timestamp": "2026-03-22T00:44:50.828029",
+        "value": 15.9
+    }
+]

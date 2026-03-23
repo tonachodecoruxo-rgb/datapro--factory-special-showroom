@@ -1,0 +1,37 @@
+[
+    {
+        "id": "9a3ae86b",
+        "sector": "LegalTech",
+        "critical_flag": "Errores en identificaci\u00f3n de privilegio legal.",
+        "timestamp": "2026-03-22T00:44:49.540887",
+        "value": 44.66
+    },
+    {
+        "id": "34a77677",
+        "sector": "LegalTech",
+        "critical_flag": "Errores en identificaci\u00f3n de privilegio legal.",
+        "timestamp": "2026-03-22T00:44:49.540887",
+        "value": 52.4
+    },
+    {
+        "id": "de5386a0",
+        "sector": "LegalTech",
+        "critical_flag": "Errores en identificaci\u00f3n de privilegio legal.",
+        "timestamp": "2026-03-22T00:44:49.540887",
+        "value": 70.94
+    },
+    {
+        "id": "fc311222",
+        "sector": "LegalTech",
+        "critical_flag": "Errores en identificaci\u00f3n de privilegio legal.",
+        "timestamp": "2026-03-22T00:44:49.540887",
+        "value": 25.75
+    },
+    {
+        "id": "b2622be7",
+        "sector": "LegalTech",
+        "critical_flag": "Errores en identificaci\u00f3n de privilegio legal.",
+        "timestamp": "2026-03-22T00:44:49.540887",
+        "value": 32.92
+    }
+]

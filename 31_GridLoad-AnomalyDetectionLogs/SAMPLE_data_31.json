@@ -1,0 +1,37 @@
+[
+    {
+        "id": "8ec27df4",
+        "sector": "Energy and Utilities",
+        "critical_flag": "Ataques cibern\u00e9ticos en red el\u00e9ctrica.",
+        "timestamp": "2026-03-22T00:44:39.258942",
+        "value": 51.41
+    },
+    {
+        "id": "fb9693d3",
+        "sector": "Energy and Utilities",
+        "critical_flag": "Ataques cibern\u00e9ticos en red el\u00e9ctrica.",
+        "timestamp": "2026-03-22T00:44:39.258942",
+        "value": 51.96
+    },
+    {
+        "id": "e9acbdb3",
+        "sector": "Energy and Utilities",
+        "critical_flag": "Ataques cibern\u00e9ticos en red el\u00e9ctrica.",
+        "timestamp": "2026-03-22T00:44:39.258942",
+        "value": 34.7
+    },
+    {
+        "id": "cd17a429",
+        "sector": "Energy and Utilities",
+        "critical_flag": "Ataques cibern\u00e9ticos en red el\u00e9ctrica.",
+        "timestamp": "2026-03-22T00:44:39.258942",
+        "value": 22.62
+    },
+    {
+        "id": "9603ab3d",
+        "sector": "Energy and Utilities",
+        "critical_flag": "Ataques cibern\u00e9ticos en red el\u00e9ctrica.",
+        "timestamp": "2026-03-22T00:44:39.258942",
+        "value": 41.0
+    }
+]

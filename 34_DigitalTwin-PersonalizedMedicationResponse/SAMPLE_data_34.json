@@ -1,0 +1,37 @@
+[
+    {
+        "id": "be57e622",
+        "sector": "HealthTech",
+        "critical_flag": "Simulaci\u00f3n de respuesta a f\u00e1rmacos.",
+        "timestamp": "2026-03-22T00:44:43.095774",
+        "value": 55.09
+    },
+    {
+        "id": "7bb95609",
+        "sector": "HealthTech",
+        "critical_flag": "Simulaci\u00f3n de respuesta a f\u00e1rmacos.",
+        "timestamp": "2026-03-22T00:44:43.095774",
+        "value": 87.84
+    },
+    {
+        "id": "759d3c3f",
+        "sector": "HealthTech",
+        "critical_flag": "Simulaci\u00f3n de respuesta a f\u00e1rmacos.",
+        "timestamp": "2026-03-22T00:44:43.095774",
+        "value": 67.6
+    },
+    {
+        "id": "2ab3cc39",
+        "sector": "HealthTech",
+        "critical_flag": "Simulaci\u00f3n de respuesta a f\u00e1rmacos.",
+        "timestamp": "2026-03-22T00:44:43.095774",
+        "value": 47.79
+    },
+    {
+        "id": "5a870403",
+        "sector": "HealthTech",
+        "critical_flag": "Simulaci\u00f3n de respuesta a f\u00e1rmacos.",
+        "timestamp": "2026-03-22T00:44:43.095774",
+        "value": 97.08
+    }
+]

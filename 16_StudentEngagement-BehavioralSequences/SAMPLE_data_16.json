@@ -1,0 +1,37 @@
+[
+    {
+        "id": "92f6331a",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Predicci\u00f3n de abandono escolar en plataformas.",
+        "timestamp": "2026-03-22T00:44:18.813215",
+        "value": 51.49
+    },
+    {
+        "id": "fbc9caa9",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Predicci\u00f3n de abandono escolar en plataformas.",
+        "timestamp": "2026-03-22T00:44:18.813215",
+        "value": 41.1
+    },
+    {
+        "id": "d054ce49",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Predicci\u00f3n de abandono escolar en plataformas.",
+        "timestamp": "2026-03-22T00:44:18.813215",
+        "value": 59.88
+    },
+    {
+        "id": "2285e5b7",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Predicci\u00f3n de abandono escolar en plataformas.",
+        "timestamp": "2026-03-22T00:44:18.813215",
+        "value": 18.35
+    },
+    {
+        "id": "84c866f3",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Predicci\u00f3n de abandono escolar en plataformas.",
+        "timestamp": "2026-03-22T00:44:18.813215",
+        "value": 96.99
+    }
+]

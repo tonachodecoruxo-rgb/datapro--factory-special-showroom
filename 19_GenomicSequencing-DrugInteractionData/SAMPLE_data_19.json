@@ -1,0 +1,37 @@
+[
+    {
+        "id": "99629e22",
+        "sector": "HealthTech",
+        "critical_flag": "Interacciones adversas en variantes gen\u00f3micas.",
+        "timestamp": "2026-03-22T00:44:22.945452",
+        "value": 79.64
+    },
+    {
+        "id": "83a7a2f9",
+        "sector": "HealthTech",
+        "critical_flag": "Interacciones adversas en variantes gen\u00f3micas.",
+        "timestamp": "2026-03-22T00:44:22.945452",
+        "value": 78.03
+    },
+    {
+        "id": "551f6160",
+        "sector": "HealthTech",
+        "critical_flag": "Interacciones adversas en variantes gen\u00f3micas.",
+        "timestamp": "2026-03-22T00:44:22.945452",
+        "value": 32.83
+    },
+    {
+        "id": "693e362c",
+        "sector": "HealthTech",
+        "critical_flag": "Interacciones adversas en variantes gen\u00f3micas.",
+        "timestamp": "2026-03-22T00:44:22.945452",
+        "value": 61.38
+    },
+    {
+        "id": "442f4747",
+        "sector": "HealthTech",
+        "critical_flag": "Interacciones adversas en variantes gen\u00f3micas.",
+        "timestamp": "2026-03-22T00:44:22.945452",
+        "value": 77.01
+    }
+]

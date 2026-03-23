@@ -1,0 +1,37 @@
+[
+    {
+        "id": "4dffb21c",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Propagaci\u00f3n de botnets en dispositivos IoT.",
+        "timestamp": "2026-03-22T00:44:26.102353",
+        "value": 46.9
+    },
+    {
+        "id": "28f57e83",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Propagaci\u00f3n de botnets en dispositivos IoT.",
+        "timestamp": "2026-03-22T00:44:26.102353",
+        "value": 87.23
+    },
+    {
+        "id": "fe212caa",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Propagaci\u00f3n de botnets en dispositivos IoT.",
+        "timestamp": "2026-03-22T00:44:26.102353",
+        "value": 32.62
+    },
+    {
+        "id": "1d40c600",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Propagaci\u00f3n de botnets en dispositivos IoT.",
+        "timestamp": "2026-03-22T00:44:26.102353",
+        "value": 47.98
+    },
+    {
+        "id": "94c9deb2",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Propagaci\u00f3n de botnets en dispositivos IoT.",
+        "timestamp": "2026-03-22T00:44:26.102353",
+        "value": 27.08
+    }
+]

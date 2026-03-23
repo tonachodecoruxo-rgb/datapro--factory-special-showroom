@@ -1,0 +1,37 @@
+[
+    {
+        "id": "3fe727b6",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Detecci\u00f3n de parafraseo avanzado en tareas.",
+        "timestamp": "2026-03-22T00:44:44.411198",
+        "value": 78.03
+    },
+    {
+        "id": "c8b8eefc",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Detecci\u00f3n de parafraseo avanzado en tareas.",
+        "timestamp": "2026-03-22T00:44:44.411198",
+        "value": 80.07
+    },
+    {
+        "id": "d44fbe29",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Detecci\u00f3n de parafraseo avanzado en tareas.",
+        "timestamp": "2026-03-22T00:44:44.411198",
+        "value": 24.27
+    },
+    {
+        "id": "538293d4",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Detecci\u00f3n de parafraseo avanzado en tareas.",
+        "timestamp": "2026-03-22T00:44:44.411198",
+        "value": 28.6
+    },
+    {
+        "id": "00107797",
+        "sector": "Educaci\u00f3n",
+        "critical_flag": "Detecci\u00f3n de parafraseo avanzado en tareas.",
+        "timestamp": "2026-03-22T00:44:44.411198",
+        "value": 53.19
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": "23cf564c",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Brechas por errores simples de configuraci\u00f3n.",
+        "timestamp": "2026-03-22T00:44:53.627614",
+        "value": 11.52
+    },
+    {
+        "id": "00499c53",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Brechas por errores simples de configuraci\u00f3n.",
+        "timestamp": "2026-03-22T00:44:53.627614",
+        "value": 45.64
+    },
+    {
+        "id": "b5d75d25",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Brechas por errores simples de configuraci\u00f3n.",
+        "timestamp": "2026-03-22T00:44:53.627614",
+        "value": 68.15
+    },
+    {
+        "id": "439310ad",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Brechas por errores simples de configuraci\u00f3n.",
+        "timestamp": "2026-03-22T00:44:53.627614",
+        "value": 83.34
+    },
+    {
+        "id": "f986d557",
+        "sector": "Ciberseguridad",
+        "critical_flag": "Brechas por errores simples de configuraci\u00f3n.",
+        "timestamp": "2026-03-22T00:44:53.627614",
+        "value": 52.77
+    }
+]

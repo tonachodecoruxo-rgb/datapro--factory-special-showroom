@@ -1,0 +1,37 @@
+[
+    {
+        "id": "d8b5cd46",
+        "sector": "Fintech",
+        "critical_flag": "Blanqueo de dinero en grafos distribuidos.",
+        "timestamp": "2026-03-22T00:44:21.552227",
+        "value": 47.08
+    },
+    {
+        "id": "d19cf3f5",
+        "sector": "Fintech",
+        "critical_flag": "Blanqueo de dinero en grafos distribuidos.",
+        "timestamp": "2026-03-22T00:44:21.552227",
+        "value": 41.85
+    },
+    {
+        "id": "179e8986",
+        "sector": "Fintech",
+        "critical_flag": "Blanqueo de dinero en grafos distribuidos.",
+        "timestamp": "2026-03-22T00:44:21.552227",
+        "value": 66.91
+    },
+    {
+        "id": "0c53f83c",
+        "sector": "Fintech",
+        "critical_flag": "Blanqueo de dinero en grafos distribuidos.",
+        "timestamp": "2026-03-22T00:44:21.552227",
+        "value": 78.35
+    },
+    {
+        "id": "6f62397c",
+        "sector": "Fintech",
+        "critical_flag": "Blanqueo de dinero en grafos distribuidos.",
+        "timestamp": "2026-03-22T00:44:21.552227",
+        "value": 93.64
+    }
+]
