@@ -1,0 +1,37 @@
+[
+  {
+    "id": "55caf87c",
+    "sector": "LegalTech",
+    "critical_flag": "Impacto de cambios legislativos (GDPR/CCPA).",
+    "timestamp": "2026-03-22T00:44:12.610852",
+    "value": 79.88
+  },
+  {
+    "id": "af3ca611",
+    "sector": "LegalTech",
+    "critical_flag": "Impacto de cambios legislativos (GDPR/CCPA).",
+    "timestamp": "2026-03-22T00:44:12.610852",
+    "value": 34.53
+  },
+  {
+    "id": "0394c55c",
+    "sector": "LegalTech",
+    "critical_flag": "Impacto de cambios legislativos (GDPR/CCPA).",
+    "timestamp": "2026-03-22T00:44:12.610852",
+    "value": 13.62
+  },
+  {
+    "id": "414babc4",
+    "sector": "LegalTech",
+    "critical_flag": "Impacto de cambios legislativos (GDPR/CCPA).",
+    "timestamp": "2026-03-22T00:44:12.610852",
+    "value": 60.38
+  },
+  {
+    "id": "864f401e",
+    "sector": "LegalTech",
+    "critical_flag": "Impacto de cambios legislativos (GDPR/CCPA).",
+    "timestamp": "2026-03-22T00:44:12.610852",
+    "value": 10.57
+  }
+]

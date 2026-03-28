@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bc9174a8",
+    "sector": "LegalTech",
+    "critical_flag": "Probabilidad de \u00e9xito seg\u00fan juez y precedente.",
+    "timestamp": "2026-03-22T00:44:27.462010",
+    "value": 30.71
+  },
+  {
+    "id": "40a11cd9",
+    "sector": "LegalTech",
+    "critical_flag": "Probabilidad de \u00e9xito seg\u00fan juez y precedente.",
+    "timestamp": "2026-03-22T00:44:27.462010",
+    "value": 36.31
+  },
+  {
+    "id": "62f70f5b",
+    "sector": "LegalTech",
+    "critical_flag": "Probabilidad de \u00e9xito seg\u00fan juez y precedente.",
+    "timestamp": "2026-03-22T00:44:27.462010",
+    "value": 64.75
+  },
+  {
+    "id": "dd57c8f9",
+    "sector": "LegalTech",
+    "critical_flag": "Probabilidad de \u00e9xito seg\u00fan juez y precedente.",
+    "timestamp": "2026-03-22T00:44:27.462010",
+    "value": 49.37
+  },
+  {
+    "id": "dfea1334",
+    "sector": "LegalTech",
+    "critical_flag": "Probabilidad de \u00e9xito seg\u00fan juez y precedente.",
+    "timestamp": "2026-03-22T00:44:27.462010",
+    "value": 77.0
+  }
+]

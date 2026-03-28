@@ -1,0 +1,37 @@
+[
+  {
+    "id": "5d17e8f6",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Trazas de sensores pre-fallo catastr\u00f3fico.",
+    "timestamp": "2026-03-22T00:44:16.097574",
+    "value": 43.93
+  },
+  {
+    "id": "ec5fc2b0",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Trazas de sensores pre-fallo catastr\u00f3fico.",
+    "timestamp": "2026-03-22T00:44:16.100095",
+    "value": 19.03
+  },
+  {
+    "id": "2b762a5b",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Trazas de sensores pre-fallo catastr\u00f3fico.",
+    "timestamp": "2026-03-22T00:44:16.100095",
+    "value": 39.23
+  },
+  {
+    "id": "d4caa07e",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Trazas de sensores pre-fallo catastr\u00f3fico.",
+    "timestamp": "2026-03-22T00:44:16.100095",
+    "value": 93.7
+  },
+  {
+    "id": "7cdc7ab2",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Trazas de sensores pre-fallo catastr\u00f3fico.",
+    "timestamp": "2026-03-22T00:44:16.100095",
+    "value": 75.37
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "13b1f53f",
+    "sector": "Ciberseguridad",
+    "critical_flag": "Exfiltraci\u00f3n tras infecci\u00f3n tipo SolarWinds.",
+    "timestamp": "2026-03-22T00:44:58.991164",
+    "value": 21.22
+  },
+  {
+    "id": "63a71480",
+    "sector": "Ciberseguridad",
+    "critical_flag": "Exfiltraci\u00f3n tras infecci\u00f3n tipo SolarWinds.",
+    "timestamp": "2026-03-22T00:44:58.991164",
+    "value": 17.64
+  },
+  {
+    "id": "29e3c804",
+    "sector": "Ciberseguridad",
+    "critical_flag": "Exfiltraci\u00f3n tras infecci\u00f3n tipo SolarWinds.",
+    "timestamp": "2026-03-22T00:44:58.991164",
+    "value": 61.42
+  },
+  {
+    "id": "91c05fea",
+    "sector": "Ciberseguridad",
+    "critical_flag": "Exfiltraci\u00f3n tras infecci\u00f3n tipo SolarWinds.",
+    "timestamp": "2026-03-22T00:44:58.991164",
+    "value": 46.42
+  },
+  {
+    "id": "f17e01ad",
+    "sector": "Ciberseguridad",
+    "critical_flag": "Exfiltraci\u00f3n tras infecci\u00f3n tipo SolarWinds.",
+    "timestamp": "2026-03-22T00:44:58.991164",
+    "value": 84.77
+  }
+]

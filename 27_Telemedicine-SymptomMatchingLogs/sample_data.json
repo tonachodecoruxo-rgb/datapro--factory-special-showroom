@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6e6a223d",
+    "sector": "HealthTech",
+    "critical_flag": "Errores de IA en diagn\u00f3stico por telemetr\u00eda.",
+    "timestamp": "2026-03-22T00:44:34.057582",
+    "value": 74.64
+  },
+  {
+    "id": "6386db16",
+    "sector": "HealthTech",
+    "critical_flag": "Errores de IA en diagn\u00f3stico por telemetr\u00eda.",
+    "timestamp": "2026-03-22T00:44:34.057582",
+    "value": 99.85
+  },
+  {
+    "id": "99baa58b",
+    "sector": "HealthTech",
+    "critical_flag": "Errores de IA en diagn\u00f3stico por telemetr\u00eda.",
+    "timestamp": "2026-03-22T00:44:34.057582",
+    "value": 65.76
+  },
+  {
+    "id": "24f7bca9",
+    "sector": "HealthTech",
+    "critical_flag": "Errores de IA en diagn\u00f3stico por telemetr\u00eda.",
+    "timestamp": "2026-03-22T00:44:34.057582",
+    "value": 53.72
+  },
+  {
+    "id": "0df02b93",
+    "sector": "HealthTech",
+    "critical_flag": "Errores de IA en diagn\u00f3stico por telemetr\u00eda.",
+    "timestamp": "2026-03-22T00:44:34.057582",
+    "value": 62.4
+  }
+]

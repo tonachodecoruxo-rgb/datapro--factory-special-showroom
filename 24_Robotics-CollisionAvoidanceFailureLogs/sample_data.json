@@ -1,0 +1,37 @@
+[
+  {
+    "id": "7ed2bbc9",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Fallos de cobots en entornos din\u00e1micos.",
+    "timestamp": "2026-03-22T00:44:29.998028",
+    "value": 49.8
+  },
+  {
+    "id": "c3343d00",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Fallos de cobots en entornos din\u00e1micos.",
+    "timestamp": "2026-03-22T00:44:29.998028",
+    "value": 64.84
+  },
+  {
+    "id": "ca675469",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Fallos de cobots en entornos din\u00e1micos.",
+    "timestamp": "2026-03-22T00:44:29.998028",
+    "value": 74.75
+  },
+  {
+    "id": "f8e987a0",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Fallos de cobots en entornos din\u00e1micos.",
+    "timestamp": "2026-03-22T00:44:29.998028",
+    "value": 96.25
+  },
+  {
+    "id": "914a8231",
+    "sector": "Smart Manufacturing",
+    "critical_flag": "Fallos de cobots en entornos din\u00e1micos.",
+    "timestamp": "2026-03-22T00:44:29.998028",
+    "value": 93.05
+  }
+]

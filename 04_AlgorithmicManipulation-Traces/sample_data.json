@@ -1,0 +1,37 @@
+[
+  {
+    "id": "b4f51cb4",
+    "sector": "Fintech",
+    "critical_flag": "Manipulaci\u00f3n de activos de baja liquidez.",
+    "timestamp": "2026-03-22T00:44:02.563033",
+    "value": 14.16
+  },
+  {
+    "id": "0e97e037",
+    "sector": "Fintech",
+    "critical_flag": "Manipulaci\u00f3n de activos de baja liquidez.",
+    "timestamp": "2026-03-22T00:44:02.563033",
+    "value": 40.86
+  },
+  {
+    "id": "16082876",
+    "sector": "Fintech",
+    "critical_flag": "Manipulaci\u00f3n de activos de baja liquidez.",
+    "timestamp": "2026-03-22T00:44:02.563033",
+    "value": 85.97
+  },
+  {
+    "id": "bce39c80",
+    "sector": "Fintech",
+    "critical_flag": "Manipulaci\u00f3n de activos de baja liquidez.",
+    "timestamp": "2026-03-22T00:44:02.563033",
+    "value": 16.53
+  },
+  {
+    "id": "65bea5ca",
+    "sector": "Fintech",
+    "critical_flag": "Manipulaci\u00f3n de activos de baja liquidez.",
+    "timestamp": "2026-03-22T00:44:02.563033",
+    "value": 96.17
+  }
+]

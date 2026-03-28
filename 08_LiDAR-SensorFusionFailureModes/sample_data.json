@@ -1,0 +1,37 @@
+[
+  {
+    "id": "27821696",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Fallos en climas extremos y spoofing.",
+    "timestamp": "2026-03-22T00:44:07.171847",
+    "value": 83.14
+  },
+  {
+    "id": "28a4ac54",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Fallos en climas extremos y spoofing.",
+    "timestamp": "2026-03-22T00:44:07.171847",
+    "value": 59.23
+  },
+  {
+    "id": "ba7da6ac",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Fallos en climas extremos y spoofing.",
+    "timestamp": "2026-03-22T00:44:07.171847",
+    "value": 14.04
+  },
+  {
+    "id": "f8f75134",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Fallos en climas extremos y spoofing.",
+    "timestamp": "2026-03-22T00:44:07.171847",
+    "value": 19.76
+  },
+  {
+    "id": "744760f6",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Fallos en climas extremos y spoofing.",
+    "timestamp": "2026-03-22T00:44:07.171847",
+    "value": 60.49
+  }
+]

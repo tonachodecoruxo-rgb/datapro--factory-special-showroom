@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9298ab80",
+    "sector": "Fintech",
+    "critical_flag": "Fraude transfronterizo en varias jurisdicciones.",
+    "timestamp": "2026-03-22T00:44:46.934052",
+    "value": 23.4
+  },
+  {
+    "id": "18b0b3c6",
+    "sector": "Fintech",
+    "critical_flag": "Fraude transfronterizo en varias jurisdicciones.",
+    "timestamp": "2026-03-22T00:44:46.934052",
+    "value": 54.87
+  },
+  {
+    "id": "7d7cc727",
+    "sector": "Fintech",
+    "critical_flag": "Fraude transfronterizo en varias jurisdicciones.",
+    "timestamp": "2026-03-22T00:44:46.934052",
+    "value": 36.87
+  },
+  {
+    "id": "97f160e0",
+    "sector": "Fintech",
+    "critical_flag": "Fraude transfronterizo en varias jurisdicciones.",
+    "timestamp": "2026-03-22T00:44:46.934052",
+    "value": 69.5
+  },
+  {
+    "id": "826fc007",
+    "sector": "Fintech",
+    "critical_flag": "Fraude transfronterizo en varias jurisdicciones.",
+    "timestamp": "2026-03-22T00:44:46.934052",
+    "value": 30.82
+  }
+]

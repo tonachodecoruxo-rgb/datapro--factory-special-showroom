@@ -1,0 +1,37 @@
+[
+  {
+    "id": "de01e7ab",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Inyecciones maliciosas en avisos de colisi\u00f3n.",
+    "timestamp": "2026-03-22T00:44:08.359580",
+    "value": 83.41
+  },
+  {
+    "id": "167694b9",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Inyecciones maliciosas en avisos de colisi\u00f3n.",
+    "timestamp": "2026-03-22T00:44:08.359580",
+    "value": 28.42
+  },
+  {
+    "id": "0595485f",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Inyecciones maliciosas en avisos de colisi\u00f3n.",
+    "timestamp": "2026-03-22T00:44:08.360253",
+    "value": 24.55
+  },
+  {
+    "id": "cd0be27b",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Inyecciones maliciosas en avisos de colisi\u00f3n.",
+    "timestamp": "2026-03-22T00:44:08.360253",
+    "value": 25.06
+  },
+  {
+    "id": "2fd70b27",
+    "sector": "Automoci\u00f3n",
+    "critical_flag": "Inyecciones maliciosas en avisos de colisi\u00f3n.",
+    "timestamp": "2026-03-22T00:44:08.360253",
+    "value": 97.39
+  }
+]
