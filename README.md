@@ -22,4 +22,5 @@ Aunque aquí ves la estructura, nuestro motor de back-end opera sobre el **Z-Lay
 2. **Daily Refresh:** Sincronización diaria de telemetría sintética.
 
 ---
+* **[Asset 116: Industrial Thermal BMS](https://github.com/tonachodecoruxo-rgb/datapro--factory-special-showroom/blob/main/116_Industrial-Thermal-BMS-Predictive-Set/DOSSIER_116.md)** | Telemetría de Gemelo Digital para gestión térmica de baterías | `Hugging Face` `RSR Framework`
 **Desarrollado por:** Antonio Rodriguez Martinez / gmd tonhy / gemant system
